@@ -26,29 +26,17 @@ My interests include:
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Security**
+<p>
 
-- SOC Operations
-- Threat Detection
-- Incident Response
-- GRC
-- Network Security
+<img src="https://skillicons.dev/icons?i=python,java,c,linux,bash,git,github,aws,mysql,vscode"/>
 
-**Cloud**
+</p>
 
-- AWS
-- IAM
-- CloudTrail
-- S3 Security
+**Security Tools**
 
-**Programming**
-
-- Python
-- SQL
-- Java
-- C
+Splunk • Wireshark • Cisco Packet Tracer • VirtualBox • Nmap • Burp Suite • WordPress
 
 **Tools**
 
@@ -73,25 +61,12 @@ These projects are currently under development and will be documented here:
 - Python Log Analysis Toolkit
 - AI Business Assistant
 - Cybersecurity Write-ups
-
----
-
-## 📚 Currently Learning
-
-I'm continuously improving my skills through:
-
-- Hack The Box Academy
-- TryHackMe
-- AWS Cloud Security
-- Detection Engineering
-- Python Automation
-- Cloud Security
-
+> More projects are added regularly as I continue building and documenting my cybersecurity journey.
 ---
 
 ## 📝 Writing
 
-I share what I learn through technical articles and project write-ups.
+I enjoy documenting what I learn and sharing practical cybersecurity knowledge and projects.
 
 - Hashnode: https://hashnode.com/@0xheyfaridaibrahim
 - Medium: https://0xheyfaridaibrahim.medium.com/
@@ -100,12 +75,18 @@ I share what I learn through technical articles and project write-ups.
 
 ## 🤝 Let's Connect
 
-📧 Email: faridaselma10@gmail.com
+📧 Email: info.brixhq@gmail.com
 
  LinkedIn: https://www.linkedin.com/selma-ibrahim
 
 💻 Portfolio: *(Coming Soon)*
 
 ---
+<div align="center">
 
+### 💡 Philosophy
+
+*"Build. Break. Learn. Document. Improve."*
+
+</div>
 > *"I believe the best way to learn cybersecurity is by building, breaking, documenting, and improving and also crashing out."*
