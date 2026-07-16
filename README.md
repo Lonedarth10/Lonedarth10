@@ -52,8 +52,8 @@ My interests include:
 
 **Tools**
 
-- Splunk
-- Wireshark
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 - Cisco Packet Tracer
 - Git
 - GitHub
@@ -102,10 +102,10 @@ I share what I learn through technical articles and project write-ups.
 
 📧 Email: faridaselma10@gmail.com
 
-💼 LinkedIn: *(Add your LinkedIn URL here)*
+ LinkedIn: https://www.linkedin.com/selma-ibrahim
 
 💻 Portfolio: *(Coming Soon)*
 
 ---
 
-> *"I believe the best way to learn cybersecurity is by building, breaking, documenting, and improving."*
+> *"I believe the best way to learn cybersecurity is by building, breaking, documenting, and improving and also crashing out."*
