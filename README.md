@@ -38,14 +38,9 @@ My interests include:
 
 Splunk • Wireshark • Cisco Packet Tracer • VirtualBox • Nmap • Burp Suite • WordPress
 
-**Tools**
+**Additional Tools**
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 - Cisco Packet Tracer
-- Git
-- GitHub
-- Linux
 - Windows
 - VirtualBox
 - n8n
@@ -86,7 +81,7 @@ I enjoy documenting what I learn and sharing practical cybersecurity knowledge a
 
 ### 💡 Philosophy
 
-*"Build. Break. Learn. Document. Improve."*
+*"I believe the best way to learn cybersecurity is by building, breaking, documenting, and improving and also crashing out."*
 
 </div>
-> *"I believe the best way to learn cybersecurity is by building, breaking, documenting, and improving and also crashing out."*
+
