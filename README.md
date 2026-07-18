@@ -1,7 +1,7 @@
 OH YOU FOUND ME!
 # Hi there! I'm Farida Selma Ibrahim 👋
 
-### Cybersecurity & Cloud Security Analyst
+### Junior Cybersecurity & Cloud Security Analyst
 
 I'm a Computer Science student and  cybersecurity professional focused on building practical security solutions through hands-on labs, automation, and real-world projects.
 
